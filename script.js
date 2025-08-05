@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const words = [
         "Web Developer",
         "Cloud Practitioner",
-        "Data Scientist",
+        "Mobile Developer",
         "Computer Scientist",
         "S.T.E.M Enthusiast"
     ];
